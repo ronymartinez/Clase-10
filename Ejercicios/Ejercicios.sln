@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form1", "Form1\Form1.csproj", "{9CDE6DE5-96DA-465C-9FC6-809CDC8E9600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atrapame.Entidades", "Atrapame.Entidades\Atrapame.Entidades.csproj", "{08395AAB-45A1-45A3-80FE-7FA027EB0B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDE6DE5-96DA-465C-9FC6-809CDC8E9600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDE6DE5-96DA-465C-9FC6-809CDC8E9600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDE6DE5-96DA-465C-9FC6-809CDC8E9600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDE6DE5-96DA-465C-9FC6-809CDC8E9600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08395AAB-45A1-45A3-80FE-7FA027EB0B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08395AAB-45A1-45A3-80FE-7FA027EB0B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08395AAB-45A1-45A3-80FE-7FA027EB0B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08395AAB-45A1-45A3-80FE-7FA027EB0B64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA869188-6D7F-4CA9-A010-D4CCA6836914}
+	EndGlobalSection
+EndGlobal
